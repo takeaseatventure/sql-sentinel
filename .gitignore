@@ -3,3 +3,5 @@ node_modules/
 .DS_Store
 debug.js
 .env
+stripe_check.py
+make_stripe.py

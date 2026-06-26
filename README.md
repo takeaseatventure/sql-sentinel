@@ -166,7 +166,7 @@ The open-source engine covers the 20 universal cost/perf rules. The **Pro tier**
 - **CI hook + SARIF output**: drop into GitHub Actions and surface findings as PR comments.
 - **Priority email support** for your team's audit.
 
-→ **[Get sql-sentinel Pro — $29 one-time](https://takeaseatventure.com/pro)**
+→ **[Get sql-sentinel Pro — $29 one-time](https://buy.stripe.com/4gMbJ0gJU1DdaDBfYD9Zm06)**
 
 ## Contributing
 

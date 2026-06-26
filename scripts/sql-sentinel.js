@@ -690,7 +690,7 @@ function prettyReport(r) {
 
 // Export for programmatic use + CLI
 if (typeof module !== 'undefined' && module.exports) {
-  module.exports = { auditSql, splitStatements, scoreHealth, RULES, prettyReport };
+  module.exports = { auditSql, splitStatements, stripCommentsAndStrings, whereClause, hasWord, scoreHealth, RULES, prettyReport };
 }
 if (require.main === module) {
   cliMain(process.argv);
